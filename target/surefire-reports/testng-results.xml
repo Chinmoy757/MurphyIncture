@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14500" started-at="2018-01-10T12:53:41Z" finished-at="2018-01-10T12:53:56Z">
+    <groups>
+    </groups>
+    <test name="Smoke Test Cases" duration-ms="14500" started-at="2018-01-10T12:53:41Z" finished-at="2018-01-10T12:53:56Z">
+      <class name="com.incture.proj.testNg.TestClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.incture.proj.testNg.TestClass@6537cf78]" name="setUp" is-config="true" duration-ms="5989" started-at="2018-01-10T18:23:41Z" finished-at="2018-01-10T18:23:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TestHomePageHeadLine()[pri:0, instance:com.incture.proj.testNg.TestClass@6537cf78]" name="TestHomePageHeadLine" duration-ms="1021" started-at="2018-01-10T18:23:47Z" finished-at="2018-01-10T18:23:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestHomePageHeadLine -->
+        <test-method status="PASS" signature="TestHomePageButton()[pri:1, instance:com.incture.proj.testNg.TestClass@6537cf78]" name="TestHomePageButton" duration-ms="988" started-at="2018-01-10T18:23:48Z" finished-at="2018-01-10T18:23:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestHomePageButton -->
+        <test-method status="PASS" signature="TestRegisterPage()[pri:2, instance:com.incture.proj.testNg.TestClass@6537cf78]" name="TestRegisterPage" duration-ms="2683" started-at="2018-01-10T18:23:50Z" finished-at="2018-01-10T18:23:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestRegisterPage -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.incture.proj.testNg.TestClass@6537cf78]" name="CloseBrowser" is-config="true" duration-ms="3596" started-at="2018-01-10T18:23:52Z" finished-at="2018-01-10T18:23:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.incture.proj.testNg.TestClass -->
+    </test> <!-- Smoke Test Cases -->
+  </suite> <!-- Default suite -->
+</testng-results>
